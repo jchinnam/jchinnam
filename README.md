@@ -1,4 +1,4 @@
-![](/bunnies.gif)
+<img src="bunnies.gif" alt="bunnies making mooncakes" width="250">
 
 <!--
 **jchinnam/jchinnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
